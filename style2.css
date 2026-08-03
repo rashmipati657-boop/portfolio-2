@@ -1,0 +1,234 @@
+body{
+    background-color: #232222;
+}
+div{
+    background-color: #000000;
+    color: rgb(217, 211, 211);
+    display: flex;
+    height: 60px;
+    width: 100%;
+    border-radius: 10%;
+    overflow: hidden;
+}
+#K{
+    color: green;
+    width: 2.4%;
+    padding-left: 10px;
+    
+}
+#l{
+    color: rgb(238, 234, 234);
+    width: 7.5%;
+}
+#category{
+    color: rgb(244, 245, 242);
+    
+    font-style: italic;
+    background-color: #282323;
+    border: 1px solid #100f0f;
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 90px;
+    padding-left: 30px;
+    text-align: center;
+
+}
+button{
+    background-color: rgb(40, 35, 35);
+    color: rgb(244, 245, 242);
+    border: 1px solid #444;
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+     margin-top: 15px;
+}
+#searchInput{
+    background-color: rgb(40, 35, 35);
+    color: rgb(244, 245, 242);
+    border: 1px solid #444;
+    height: 30px;
+    width: 173px;
+    border-radius: 20px;
+     margin-top: 15px;
+}
+#rahul{
+    width: 60px;
+    padding-left: 10px;
+    display: flex;
+    margin-left: 700px;  
+}
+marquee{
+    height: 30px;
+    width: 100%;
+    display: flex;
+
+}
+.image-container{
+    background-color: transparent;
+    height: 200px;
+
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    background-color: transparent;
+     content: center; 
+   
+}
+.rt{
+    background-color: transparent ;
+   
+    font-weight: bold 900px;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    border-radius: 10%;
+    margin-top: 30px;
+    border: 1px solid #444;
+    padding-left: 50px;
+    text-align: right;
+    padding-top: 50px;
+    font-family: roboto bold black;
+    font-size: 25px;
+   
+
+}
+#p{
+    position: relative;
+    bottom: 25px;
+    left: 175px;
+    behavior:slide;
+   
+}
+#q{
+    position: relative;
+    top: 25px;
+    left: 150px;
+    behavior:slide;
+    z-index:-1;
+}
+#o{
+    position: relative;
+    top: 25px;
+    left: 205px;
+    behavior:slide;
+}
+#ra1{
+    background-image:url(https://tse1.mm.bing.net/th/id/OIP.XTdil75iMBQs8D6Ycva_1QHaEI?rs=1&pid=ImgDetMain&o=7&rm=3);
+   padding-right:100px;
+   background-size: cover;
+    
+}
+#ra2{
+    background-image:url(https://cdn.pixabay.com/photo/2012/03/01/00/28/animal-19621_1280.jpg);
+   padding-right:100px;
+   background-size: cover;
+   color:black;
+}
+#ra3{
+    background-image:url(https://kidssciencemagazine.com/wp-content/uploads/2025/12/FUTURE_TECH.jpg);
+   padding-right:100px;
+   background-size: cover;
+   color:black;
+}
+#ra4{
+    background-image:url(https://spacevoyageventures.com/wp-content/uploads/2024/02/image-699-1024x701.jpeg);
+   padding-right:100px;
+   background-size: cover;
+   color:red
+}
+#ra5{
+    background-image:url(https://tse2.mm.bing.net/th/id/OIP.twlwNhXFhF1YKfbEVPG1kQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3);
+   padding-right:100px;
+   background-size: cover;
+}
+#ra6{
+    background-image:url(https://images.pexels.com/photos/358502/pexels-photo-358502.jpeg?cs=srgb&dl=city-sky-skyline-358502.jpg&fm=jpg);
+   padding-right:100px;
+   background-size: cover;
+}
+#ra7{
+    background-image:url(https://i.pinimg.com/736x/45/94/af/4594af837d9e212c7d34e1dbda6765fa.jpg);
+   padding-right:100px;
+   background-size: cover;
+   color:red;
+}
+#ra8{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/002/054/774/small_2x/healthy-food-selection-free-photo.jpg);
+   padding-right:100px;
+   background-size: cover;
+}
+
+#ra9{
+    background-image:url(https://tse3.mm.bing.net/th/id/OIP.ALx8ofNNeqMIWx1OqEE1jwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3);
+   padding-right:100px;
+   background-size: cover;
+}
+#ra10{
+    background-image:url(https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg);
+   padding-right:100px;
+   background-size: cover;
+}
+#c{
+    width: 100%;
+}
+#rrp{
+    background-color: transparent;
+    height: 200px;
+
+}
+#x{
+    position: relative;
+    top: 25px; 
+    left: -50px;
+    behavior:slide;
+    z-index:+1;
+}
+#y{
+    position: relative;
+    bottom: 25px;
+    left: -70px;
+    behavior:slide;
+    z-index:+1;
+   
+}
+#z{
+    position: relative;
+    top: 25px;
+    left: -120px;
+    behavior:slide;
+    z-index:-1;
+}
+#v{
+    position: relative;
+    top: 37px;
+    left: -150px;
+    behavior:slide;
+    z-index:-2;
+    height: 150px;
+}
+#w{
+    position: relative;
+    top: 37px;
+    left: 15px;
+    behavior:slide;
+    z-index:-1;
+    height: 150px;
+}
+#yt{
+    height: 70px;
+    width: 100px;
+    background-color: #232222;
+    position: relative;
+    left: 250px;
+    top:90px;
+}
+#ssb{
+    color: blue;
+    background-color: chartreuse;
+    border: 7px solid yellow;
+}

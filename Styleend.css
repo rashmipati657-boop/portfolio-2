@@ -1,0 +1,150 @@
+body{
+    background-color:black;
+    position:fixed;
+    
+}
+div{
+   height: 16cm;
+    width:8cm;
+    background-color:  #232222;
+    bottom: 16.3cm;
+
+    
+}
+#cod{
+    direction:up;
+    color: red;
+   height: 16cm;
+    width:8cm;
+    /* position: relative;
+    right: 6cm; */
+   
+
+}
+#pww{
+    /* margin-left: 7cm;
+     margin-right: 7cm; */
+     position: static;
+     height: 3.5cm;
+     width: 100cm;
+     background-color: #000000;
+     z-index: +1;
+}
+#ioi{
+    background-color: #232222 ;
+    height: 16.3cm;
+    width:24cm;
+    position: relative;
+    left:8cm;
+}
+#shiv{
+    background-color: #232222;
+    height: 16.7cm;
+    width:8.5cm;
+    position: relative;
+   bottom: 33cm;
+   /* color:blue; */
+   left:32cm;
+    
+}
+#xxx{
+    color:blue;
+     height: 16.7cm;
+    width:8.4cm;
+}
+#hello{
+    height: 10cm;
+    width: 10cm;
+    background-color: chartreuse;
+}
+#pubg{
+    width: 25cm;
+    height: 10cm;
+    position: relative;
+    right:4cm;
+}
+#id{
+    position: relative;
+    bottom:20px;
+}
+#yyy{
+    background-image: url(https://png.pngtree.com/background/20250428/original/pngtree-glittering-festive-lights-texture-picture-image_15874120.jpg);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border:10px solid green;
+    border-top:10px solid red;
+    border-bottom:10px solid blue;
+    border-right:10px solid yellow; 
+    position: relative;
+    left:5cm;
+    bottom:1.9cm;
+    animation: rahul 1s ease-out 0.5ms;
+    animation-iteration-count: infinite;
+
+}
+@keyframes rahul {
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+}
+#nnn{
+     background-image: url(https://png.pngtree.com/background/20250428/original/pngtree-glittering-festive-lights-texture-picture-image_15874120.jpg);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border:10px solid green;
+    border-top:10px solid red;
+    border-bottom:10px solid blue;
+    border-right:10px solid yellow; 
+    position: relative;
+    left:25cm;
+    top:6cm;
+    animation: rahul 1ms ease-out 1ns;
+    animation-iteration-count: infinite;
+
+}
+@keyframes rahul {
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+
+}
+#wow{
+     position: relative;
+    left:10cm;
+    bottom:1.9cm;
+    background-color: #000000;
+    padding: left;
+    display: inline;
+}
+.tot{
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom:1.2cm
+}
+/* #nnn{
+     background-image: url(https://png.pngtree.com/background/20250428/original/pngtree-glittering-festive-lights-texture-picture-image_15874120.jpg);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border:10px solid green;
+    border-top:10px solid red;
+    border-bottom:10px solid blue;
+    border-right:10px solid yellow; 
+    position: relative;
+    left:25cm;
+    top:11cm;
+    animation: rahul 2s ease-out 1ms;
+    animation-iteration-count: infinite;
+
+}
+@keyframes rahul {
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+
+} */
